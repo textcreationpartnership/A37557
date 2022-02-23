@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The East-India trade a true narration of divers ports in East-India, of the commodities and trade one kingdome holdeth with another, whereby it appeareth how much profit this nation is deprived by restraint of trade to those parts, which is farre greater then all the trade of Europe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37557</idno>
+            <idno type="STC">Wing E102</idno>
+            <idno type="STC">ESTC R35034</idno>
+            <idno type="EEBO-CITATION">14949721</idno>
+            <idno type="OCLC">ocm 14949721</idno>
+            <idno type="VID">102976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1568:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The East-India trade a true narration of divers ports in East-India, of the commodities and trade one kingdome holdeth with another, whereby it appeareth how much profit this nation is deprived by restraint of trade to those parts, which is farre greater then all the trade of Europe.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Error in paging: no. 10-11 reversed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Commercial geography.</term>
+               <term>Great Britain --  Commercial policy.</term>
+               <term>Great Britain --  Commerce --  East Asia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:102976:1"/>
+            <pb n="1" facs="tcp:102976:1" rendition="simple:additions"/>
+            <head>THE EAST-INDIA TRADE.</head>
+            <head type="sub">A true Narration of divers Ports in EAST-INDIA; of the Commodities, and Trade one Kingdome holdeth with another; whereby it appeareth, how much profit this Nation is deprived by reſtraint of Trade to thoſe parts, which is farre greater then all the trade of EUROPE.</head>
+            <div type="part">
+               <head>Eaſt-India Trade.</head>
+               <p>THe Eaſt-India Trade of old was managed by the Chine<g ref="char:EOLhyphen"/>ſes which appeares by divers Monuments which yet re<g ref="char:EOLhyphen"/>main in India; as the Plantation of the Cinnamon Iland of Ceylon, inhabited by the Chiugala's, an off-ſpring of Chineſes, with ſeverall other Plantations on the Weſt coaſt of Sumatra; and the very name of Cinnamon, which to this day is called by the Perſians Darcin, or China-wood. After them ſucceeded the Guzara<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, or Moores of Cambaya, untill the yeare 1497 that <hi>Vaſco de Gamas</hi> with his Portugals diſcovered beyond the Cape of good hope and during 100 yeares purchaſed and enjoyed that Trade: And at laſt from <hi>Anno</hi> 1595 the Hol<g ref="char:EOLhyphen"/>landers firſt, then the Engliſh, and afterwards ſome few French and Danes came for a ſhare of that rich Trade of the Eaſt.</p>
+               <p>Spices, and other Eaſt-India commodities in the Chineſes and Moors times were brought into Europe, and other Weſtern parts, by the way of Ormus, and thence over Babylon to Trapizond, Caffa and other places on and about the Euxine and Mid-land Sea, and by the Genueſes further Weſtward: And ſometimes over
+<pb n="2" facs="tcp:102976:2"/>
+the Red ſea to Memphis or Cairo in Egypt, and ſo to Alexandria and Damiata: thence by the Venetians to the more weſtern parts, wherby thoſe States of Genua and Venice flouriſhed for many a<g ref="char:EOLhyphen"/>ges. The Eaſt-India trade is ſo vaſt that all the ſhipping of our We<g ref="char:EOLhyphen"/>ſtern Europe would therin find ſufficient imployment, if once un<g ref="char:EOLhyphen"/>dertaken and proſecuted with induſtry and courage, which may appeare by the following generall deſcrip<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions, (for the particu<g ref="char:EOLhyphen"/>lars would be too tedious) beginning at Cape bon Eſperance, and ſo along the coaſts of the Contin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt unto the furtheſt parts of China; and afterwards a little of the Ilands, and the unknowne Southerne world, with a briefe deſcription of the commodities, and ſo to a concluſion.</p>
+            </div>
+            <div type="part">
+               <head>Cabo bon Eſperanca.</head>
+               <p>The Cape, beſides Beefe, Sheep and other proviſions, which uſed to bee purchaſed there for peeces o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old Iron hoops and for ſome late yeares ceaſed by the ill mannaging thereof by Hollan<g ref="char:EOLhyphen"/>ders, affords Traine oyle ſufficient to <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ade ſixe or eight ſhips a yeare; the Hollanders and French made often times Voyages thither on purpoſe for Oyle, and full fraughted their ſhips al<g ref="char:EOLhyphen"/>though the Hollanders of late, ſince the erecting of their Weſt-India company, never came there for that fiſhing becauſe that all others beſides tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Company are reſtrained the navigating be<g ref="char:EOLhyphen"/>yond the Tropick of Cancer: the French were there few yeares paſt and had their deſires. At ſeverall times motion was made by Green land Commanders out of Zealand which had uſed both Green-land and Eaſt-India Voyages to ſend to the Cape aforeſaid out of England and they made it appeare as cheap and eaſier then Green-land, and the hazard and dangers leſſe, for that although the voiage to the Cape cannot be performed under eight moneths, and that of Greene-land in ſixe moneths, yet wages and victualing will coſt no more for eight moneths to the Southwards then for ſix moneths to the Norward: beſides, Green land is not paſt three or foure moneths a year free from ice, whereas the cape may be applyed unto all the yeare long. The vent for this trayne-oyle, when Europe affords no conſiderable price, muſt be found out in Brazil, in the Eaſt Indies, and at the cape it ſelfe and neighbouring places; for that people uſes ſtore of greaſe to anoynt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelves, and would in liew thereof affoord us better commodities.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:102976:2"/>
+               <head>Agoade San Bras.</head>
+               <p>Here the Hollanders trucked Beeves and other proviſi<g ref="char:EOLhyphen"/>ons for pieces of old Iron-hoopes and Hatchets; and found all the Country full of Sempervivum or Aloes herbe; and moſt of the Countrey People we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res golden Rings which argues Gold along their coaſt: For 250 League furth<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Eaſtward, the Por<g ref="char:EOLhyphen"/>tingalls found the Country people likewiſe adorned with Gold.</p>
+            </div>
+            <div type="part">
+               <head>Cabo Correntes.</head>
+               <p>The Portingalls of Moſambique trade yeerly to this place with divers Ships where in truck of blue Cal<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>co painted and checque<g ref="char:EOLhyphen"/>red, Stuffes and Beads from Cambaya they return Gold, Ivory, Negros, Tobacco leaves, Rinoceros hornes, and ſeverall ſorts of Proviſions. The people much inclined to trade with ſtrangers, and an Iſland very convenient for many more Shipping then uſu<g ref="char:EOLhyphen"/>ally comes.</p>
+            </div>
+            <div type="part">
+               <head>Soffala.</head>
+               <p>Here the <hi>Portingalls</hi> have a Caſtle to preſerve their golden trade of Ophir: for this is the true Ophir whence <hi>Salomo</hi> fe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed Gold and other riches, as by tradition and ancient monuments there to this day appeares. The trade is not ſo barred but wee might obtaine a ſhare; many Navigable Rivers there are beſides the Portingall Caſtle of Soffala, where wee may navigate and trade with the Natives for Gold and Elephants teeth.</p>
+            </div>
+            <div type="part">
+               <head>Sena.</head>
+               <p>Up the River Quama<g ref="char:punc">▪</g> the Portingalls have a Fort to ſecure the poſſeſsion of other gold Mines, but this great River hath many branches and the Country abounds with ſtore of Minerals more then few Portingalls are able to manage. The Country people are not expert in the handling of Guns, ſo that two Portingalls under the protection of their Fouling pieces, may travell and trade ſix weekes up in the Country without let or reſiſtance.</p>
+            </div>
+            <div type="part">
+               <head>Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ambique.</head>
+               <p>This Portingall Caſtle and town, here are upon a ſmall Iſland (which wants both proviſions and water cloſe to the maine: and from thence they trade Southwards to Sena, Soffala, Cabo Cor<g ref="char:EOLhyphen"/>rentes,
+<pb n="4" facs="tcp:102976:3"/>
+to the Northwards to Querinba, Mombafa, Melinde, Magadoxo, and other places: to the Eaſtwards, to Muſalady A<g ref="char:EOLhyphen"/>ſaday, and other ports of Madagaſcar, for Negros and Proviſions, to the red Sea, Perſia, the coaſt of India and Mallabar but cheiflier to Goa, the center of all Eaſt India Portugall Trade.</p>
+            </div>
+            <div type="part">
+               <head>Querinba, Quiloa, Momba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, Melinde, Pate, Brava, Magadoxo.</head>
+               <p>Theſe places Trade with Mofambique, the red Sea, Arabia, India, Perſia and Madagaſcar, and ſtore of Ships continually em<g ref="char:EOLhyphen"/>ployed by the Country people to and again<g ref="char:punc">▪</g> ſo that twenty or our Shipping may find ſufficient employment upon this Coaſt. The Commodities beſt known, are Gold, Ivory, Ebony-wood, Tur<g ref="char:EOLhyphen"/>tell-ſhels Negros, Ambergreece, Eſtrich feathers Manna, Sea-horſe teeth, Hydes, Butter, Tobacco, Rice and all ſorts of grains Rhi<g ref="char:EOLhyphen"/>noceros hornes, and many other good Commodities yet un<g ref="char:EOLhyphen"/>knowne.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Red-Sea, Moha, Aden,</hi> and the Coaſt of <hi>Arabia.</hi>
+               </head>
+               <p>To the Red ſea comes every monſone, above a hundred ſaile of Ships from all places of the Eaſt, with Commodities for the in<g ref="char:EOLhyphen"/>land parts of Arabia, Ethiopia, Egypt Paleſtina, and adjoyning Countries; and with Paſſengers that goe in Pilgrimage<g ref="char:punc">▪</g> to viſit <hi>Mahomets</hi> Tombe of Mecca: Not onely from the places before mentioned, but alſo from Madagaſcar, Maſca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Gombrour, Jaſ<g ref="char:EOLhyphen"/>ques in Perſia, Sindu, Diu, Cambaya, Surratte, Dabull Ragia<g ref="char:EOLhyphen"/>pore, Goa, Mangalore, Cannanore Callicut, Cochin, Seylon, Maſulipatan, Bengala, Pegu, Tannaſſery, Achen, Bantam, and other ſeverall places. Which Ships being of no great defenſive forc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, are Subjects to Mallabar Pirates, Portingall, and inſulting Hollanders, and to all manner of men of Warre, which often re<g ref="char:EOLhyphen"/>ſorts to the Red ſea<g ref="char:punc">▪</g> to make purchaſe of rich Indians; ſo that our Shipping may find employment not onely in Trade, but chieflier in carrying and re-carrying thoſe Indians, their perſons, ſlaves and goods to the Red ſea, and back to their owne home.</p>
+            </div>
+            <div type="part">
+               <head>Maſcate, Ormus Gombrone, Bander, Jaſques, Guadel, Perſia.</head>
+               <p>Thither comes Shipping from moſt of the ports before menti<g ref="char:EOLhyphen"/>on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, with diver Commodities, and from all the reſt of the Eaſt Indies, as from Sindu, Diu, Cambaya, Surratte, Dabul, Ragia<g ref="char:EOLhyphen"/>pore,
+<pb n="5" facs="tcp:102976:3"/>
+Carwar, Baticala, Mangalor, Cannanore, Calicut, Cochin Ceylon, Negapatam, S<hi rend="sup">t</hi> Thome, Maſulipatam, Bangala, Tannaſ<g ref="char:EOLhyphen"/>ſory, Pegu, Achin, and other places from the South ſea; with pepper, cloves, nutmegs, mace, cinamon, indico, turmericke, gumlack, ginger, cohoſeed; cardemons, rampontri, ſaunders, lig<g ref="char:EOLhyphen"/>num aloes, muske, ambergreece, turtellſhels Elephants, timber, negros, ſugar pouder and candy, callico, and cotton cloth of all ſorts, dyed, painted and white, with all kind of China ſtuffes, and China wares: and return larees or money, horſes, ſilk carpets, bezars<g ref="char:punc">▪</g> turkeys pearles, tutia, brimſtone myrrha olibanum worm<g ref="char:EOLhyphen"/>ſeed, rubarbe, manna, roanay, roſewater and cakes, aſa fetida, rai<g ref="char:EOLhyphen"/>ſons, dates, almonds, wine, horſe tailes and maines with other commodities. Perſia it ſelf, will vent above 3000. Engliſh cloths a yeer, and in progreſſe of time more, the countrie to the north<g ref="char:EOLhyphen"/>ward of that great Kingdome, and towards the Caſpian Sea, be<g ref="char:EOLhyphen"/>ing extreme cold; which vent of cloth was all this while diſor<g ref="char:EOLhyphen"/>derly neglected by the Marchants Trading into thoſe parts; al<g ref="char:EOLhyphen"/>though by their agents duly informed. And its believ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d that Perſia may find employment, not onely for the beſt part of the Shippes of this Kingdome, but alſo for the greateſt part of the ſtocke, if providently adventured on its vaſt Trade; and the marct of Perſia ſilke<g ref="char:punc">▪</g> thus brought to London; whereas its now diverted by Armenians and Hollanders, to Tur<g ref="char:EOLhyphen"/>ky and Batavia.</p>
+            </div>
+            <div type="part">
+               <head>Mogull, Sindu, Diu, Goga, Cambaya, Surratte, Damon<g ref="char:punc">▪</g> Ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haul.</head>
+               <p>The Trade of the great Mogulls dominion, is anſwerable to the vaſtneſſe of that great Empire, and affords ſufficient matter for a farre larger trade, then hitherto uſed by the Marchants of London, trading into thoſe parts, and onely at the port of Surrat<g ref="char:EOLhyphen"/>te and up into the Country to Baroche<g ref="char:punc">▪</g> Brodera, Amadanab and Agra for Calicoes, Indigo and few drugs to lade two or three ſhips a yeere: Wheras Surratte and the Countries adjacent may very well afford trade for the inveſtment of all the ſtocke of England; not onely for Europe but chiefly for all ports before named, as the coaſt of Abiſsine, Red ſea, Arabia, Perſia, India, Cormandell, Bengala, Pegu, Aracan, Siam, Achen, Bantam Banda, Meluccos, Ceylon, and other Coaſts and Iſlands; wherein great number of Ships continually employed. Cambaya alone is a place of farre
+<pb n="6" facs="tcp:102976:4"/>
+greater Trade, then by all our Shipping could be managed; and hath ſomtimes a hundred Frigats in a Caffila or Fleet, from Goa and other places upon the coaſt of India, bound to that Port. Sindu Diu Goga, Damon. Bacaim and Chaul are Ports of great Trade to all ports of India: ſo that it may confidently be believed that the Moguls Country may afford ſufficient employment for all the Shipping of ENGLAND.</p>
+            </div>
+            <div type="part">
+               <head>Coaſt of <hi>India Dandragepore, Dabull, Ragiapore, Goa, Carwar, Onor, Baticala, Bar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alor.</hi>
+               </head>
+               <p>Theſe ports Trade not onely for Europe, but alſo for the Red Sea, Melinde, Madagaſcar, Perſia Guzaratte, Mallabar, Ceylon, Cormandell, Bengala, Aracan, Pegu, Tennaſſery, Mallacca, Achin, Bantam, Macaſſar, M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luccos Banda, Timor, China, Japon, and other places; and affoord Navigation for a great number of Ships.</p>
+            </div>
+            <div type="part">
+               <head>Mallabar, Mangalor, Mount-delli, Cannanor, Callicut, Cranganor, Coula<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Tuiucuri.</head>
+               <p>This coaſt is much inteſted with Mallabar Pirates, but affoords profitable Navigation for many good Ships trading to all places before mentioned and beſides to the Maldivas, Ceylon, Corman<g ref="char:EOLhyphen"/>dell, Bengala, Pegu, Achin, Bantam, Maccaſſar, Timor, China, Japan, and to a number of ports reſorting under the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid generall Names.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Cormandell, Trinconbar, Negapatam,</hi> S<hi rend="sup">t</hi>. <hi>Thome, Paliacatte, Ar<g ref="char:EOLhyphen"/>magon, Pettipoli, Maſulapa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am.</hi>
+               </head>
+               <p>The Trade of this Coaſt is very rich for the great ſtore of Cot<g ref="char:EOLhyphen"/>ton cloth made here of all kinds white, dyed and painted whereof all the world is furniſhed and chiefly the coaſt of Melinde<g ref="char:punc">▪</g> Perſia, Red ſea South ſea, Pegu, Malacca Achen; the weſt coaſt of Su<g ref="char:EOLhyphen"/>matra, Jambre Bantam, and many other places: hence come the beſt Diamonds, and diverſity of other commodities. Great ſtore of Ships trade continually upon this coaſt to and againe, and to all places before mentioned and our Shipping could want no employment there, every port being open and moſt willing to entertaine ſtrangers and their trade; and paſſengers ready to com<g ref="char:EOLhyphen"/>mit both themſelves and goods in our ſhips, which are ſecurer &amp; of better accommodation and defence, then the Country junckes.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:102976:4"/>
+               <head>Bengala, Narſapore, Pipili, Vgalce, Chatigam, Arachan.</head>
+               <p>Here abounds all kind of Cotton cloth, and Stuffes, Silke, and proviſions of Rice Butter, Oyle, Wax, with all ſorts of Mine<g ref="char:EOLhyphen"/>ralls, ſufficient to provide a great part of India, and the Iſlands where ſuch are wanting and Navigation uſed with great number of Ships to Perſia, the coaſt of India, Maldivas, Achen and other places.</p>
+            </div>
+            <div type="part">
+               <head>Pegu, Martavan, Tavay, Tenn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, Queda, Pera, Mallaca, Johor, Pahaun.</head>
+               <p>The Trade of theſe Countreys produces Gold, Copper, Tinne, Lead, Rubies, Elephants, Gomlacca, plenty of proviſions and other Commodities vendible in India, Perſia, and Red ſeas and to the Eaſtward as far as China and Japon; wherein great many Ships continually employed in carrying goods and commodities to and againe.</p>
+            </div>
+            <div type="part">
+               <head>Siam, Patane, Lugor, Cambogia, Champa, Cauchin, China.</head>
+               <p>Here is to be had in abundance, Gold, Tin, Lead, Tatimaga<g ref="char:punc">▪</g> Copper, Dureſhinus, Sabonwood and Pepper, with variety of o<g ref="char:EOLhyphen"/>ther commodities native, and brought out of the adjoyning vaſt Countreys bordering with China, and thence is great naviga<g ref="char:EOLhyphen"/>tion and trade maintained with the more adjoyning Countries of China<g ref="char:punc">▪</g> Japan and Philippinas; and full employment for our Shipping, for theſe ports affoords ſtore of Rice and proviſions needfull in the Moluccos and other places of the South ſea, where the like are wanting.</p>
+            </div>
+            <div type="part">
+               <head>China.</head>
+               <p>The China Trade is eſteemed and admired all the world over, and of ſuch vaſtneſſe that all the wealth of Europe, is not able to compaſſe; the Ships employed in the Rivers and upon the coaſt of China are innumerable; ſomtimes a particular man hath there been ſeene with a Fleet of five hundred Sailes of his owne. Their Trade to remote Countries is much declined and are by the Hol<g ref="char:EOLhyphen"/>landers forced to forbear trade in the Meluccos, Banda, Malacca, and other adjoyning places. China affoords great treaſures in Gold by ſo much as the King of Spaine hath been wiſhed to ex<g ref="char:EOLhyphen"/>change the halfe of his Weſt India Plate for China Gold, upon
+<pb n="8" facs="tcp:102976:5"/>
+the exchange whereof he might gaine 75 or 80 <hi>per centum.</hi> Com<g ref="char:EOLhyphen"/>modities beſt knowne to us here, are raw Silke, ſilk Stuffes of all ſorts; Sugar pouder and Candy, Green ginger, Radix China Ru<g ref="char:EOLhyphen"/>barbe Musk, Pearls China diſhes Cinamon, Aliume, Copper, Tate<g ref="char:EOLhyphen"/>nag, with ſeverall other commodities; and aboundance of all kind of proviſions for the ſuſtenance of all living creatures very cheap, commodities vendible from other places is Silver cloth Corrall, Amber, Pepper and Spices, of the Meſuccos and Banda, Ivory, Ri<g ref="char:EOLhyphen"/>noceros hornes Benjamin, Mirrhe, Puchock, Olibanum and ma<g ref="char:EOLhyphen"/>ny others. The difficulty of trading with the Chineſes in their own Country, is not ſo difficult as the Portingalls and Hollan<g ref="char:EOLhyphen"/>ders would perſwade the World for their own advantage. En<g ref="char:EOLhyphen"/>gliſh Marchants have traded even in the great City Cantan, for three moneths together; and notwithſtanding all the treacheries and hinderances procured by the Portingalls, I have brought from thence, neer the full lading of three Ships of 500. 400. and 300. Tunnes. This coaſt with ſome labour, courage and indu<g ref="char:EOLhyphen"/>ſtry may affoord employment for all our Shipping to export the Countrey commodities, and provide Spices, Eaſt India goods, Japan and Weſt India Plate: and whereas this coaſt conſum<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the moſt part of the plate which out of Europe is exported to the Eaſt Indias, either by Sea or over land, with all the Japan Plate; and all the Plate which out of Peru and new Spaine, comes to the Mavillas for China commodities; doubtleſſe, when our Ships ſhall be poſſeſſed of that trade great ſtore of that plate and China Gold will remaine to our ſhare in exchange of our commodities and induſtry; beſides what China goods we may have brought home to ſupply Europe and the Weſt Indias. Here ends the firm coaſt which for the ſpace of 15000 miles and upwards, containes more trade then ten times our Shipping is able to ſupply; now for the Iſlands and their Trades among themſelves, and with the Ports of the maine continent, and begin with</p>
+            </div>
+            <div type="part">
+               <head>Madagaſcar, Comoro, M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilla, Joanna, Mayottes.</head>
+               <p>The Ports known to us upon Madagaſcar Iſland, are St. Au<g ref="char:EOLhyphen"/>guſtine, S<hi rend="sup">ta.</hi> Lucia, S<hi rend="sup">ta.</hi> Maria, Autongil Aſada<g ref="char:punc">▪</g> Maſclage<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the commodities beſides Beeves Sheepe, Goats, Hogs, Rice, Gra<g ref="char:EOLhyphen"/>vances, and other victuall kind beſt known are Ambergreece Ne<g ref="char:EOLhyphen"/>gros, Iron, Copper, Tin, Turtel ſhels Sugar Ginger, Aloes, Tama<g ref="char:EOLhyphen"/>rinds, Sanguis draconis, Turmerick, Ebony-wood, Saundel-wood,
+<pb n="9" facs="tcp:102976:5"/>
+and ſeverall dying and painting Stuffes, Cotton, and Cotton Stuffes. The Northerne parts are Traded unto by ſeverall Ships from Moſambique, and above twenty Ships in one port from Mombaſa, Magadoxo, Joanna, Mohillia, Comore, Mayottes, and the coaſt of Arabia. Theſe Iſlands are wonderfull well ſeated for a great Plantation; which in progreſſe of trade and time may engroſſe all the Navigation of the coaſt of Melinde, Red ſea Per<g ref="char:EOLhyphen"/>ſia, Cambaya, India, Cormandell, Bengala, and the South ſea.</p>
+            </div>
+            <div type="part">
+               <head>Mauritius, Maſcarenhas, Diego Roiz.</head>
+               <p>Theſe three Iſlands to the Eaſtward of Madagaſcar, abound with Proviſions and Ebony-wood. The Hollanders have upon Mau<g ref="char:EOLhyphen"/>ritius a Fort with ſixteene pieces of Ordnance, and above 100. men upon the Iſland to cut Ebony-wood, and to looke for Am<g ref="char:EOLhyphen"/>bergreece, whereof oftentimes good ſtore comes a ſhore. Theſe Iſlands are no waies inferiour to the Caribes, and may with ſmall trouble be planted by our people, and further trade from thence to all parts of India may be ſetled.</p>
+            </div>
+            <div type="part">
+               <head>Socotora, Abdelcuria.</head>
+               <p>Upon theſe Iſlands ſtore of Dates, Aloes, Socotrivo and mir<g ref="char:EOLhyphen"/>rha to be had, and may very well yeeld employment for three or foure of our leſſer Ships; for the Iſlands being barren, want rice ann other proviſions, which from Madagaſcar and other places may plenteouſly be ſupplyed in barter of their Aloes, Mirrha, and other Socotrive commodities.</p>
+            </div>
+            <div type="part">
+               <head>Maldivas, Malmallas.</head>
+               <p>Great trade is driven to theſe Iſlands from Cananor, Bengala &amp; other places with rice and other proviſions, for barter wher of re<g ref="char:EOLhyphen"/>turns Cocos Nuts Cayro ropes, for the moſt part of the Shipping of India, Ambergreece, Cocomaldina, Bugios and dryed Salmons.</p>
+            </div>
+            <div type="part">
+               <head>Ceylon, Manaren.</head>
+               <p>Diverſe parts of trade there are upon the Iſland of Ceylon; the chiefe Columbo, Punto galls, Maticalo and Trinquemala: the trade is plentifull chiefly in exporting of Cinamon and Elephants, here alſo are ſtore of Rubies, Carbuncles, Drugs, and other Spi<g ref="char:EOLhyphen"/>ces to be found; and in the ſmall Iſland of Manaren, a precious Pearle fiſhing, whence yeerly great ſtore tranſported to all parts of the Eaſt.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:102976:6"/>
+               <head>Nicubar.</head>
+               <p>Theſe Iſlands yeeld ſtore of Ambergreece, and wants Rice for ſuſtenance of the Inhabitants which cauſes a reaſonable Naviga<g ref="char:EOLhyphen"/>tion from Bengala, Araccan, and other places which abounds with proviſions.</p>
+            </div>
+            <div type="part">
+               <head>Sumatra.</head>
+               <p>The Ports of Achen, Pedit, Barros, Tico, Priaman, Cellibar, and the Rivers of Palimbam Jambre, and Andrahiri, are upon this Iſland which yeeld altogether as much <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epper as the reſt of the Eaſt Indias, beſides Benjamin, Elephants, Campher Lignum, Aloes, Cubebes, and other commodities and chiefly Gold which is ſo plentifull in this Iſland that t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Inhabitants report by Tra<g ref="char:EOLhyphen"/>dition<g ref="char:punc">▪</g> that <hi>Solomon</hi> fetched his Gold from this Ophir. To the Port of Achen reſorts Shipping from Cambaya, India, Corman<g ref="char:EOLhyphen"/>dell, Bengala, Araccan, Macaſſar, and almoſt from all places of trade, every one with his Countrey commodities; whereof for the moſt part, one ſtranger exports what merchandizes another imports, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſides the native commodities of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſland, as Gold, Pepper, Elephants, Benjamin and others. Our trade being cloſly followed to all parts of Sumatra, no doubt but wee might bring home a yeerly Treaſure in Gold, beſides other commodities to ſupply the markets of Europe; for the Iſland wants Proviſions and clothing which we may bring cheape from other places, the people being addicted to their pleaſures, laſineſſe and Prodiga<g ref="char:EOLhyphen"/>litie.</p>
+            </div>
+            <div type="part">
+               <head>Java, Madura, Lombock, Baly, Cambava.</head>
+               <p>The ports of Bantam, Batavia or Jacatra, Japara, Jortan and Greſsi, beſides others belong to Jaua, which yeelds of their owne Pepper, Sugar, Cubebes, Gold, Caſſumba and other commodi<g ref="char:EOLhyphen"/>ties. The Navigation to Bantam and Batavia, are beſt knowne to Engliſh and Hollanders, theſe being here ſeated to ſecure their Spice trade upon Sumatra, Borneo, Java, Molucco and Banda beſides their China and Japan trade; the former to receive their, Pepper, which with ſmaller veſſells come from Jambre, Benger<g ref="char:EOLhyphen"/>maſsin and few more ports: Theſe ports are not ſo full of Ship<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, but might adde many ſaile to the number, and find profita<g ref="char:EOLhyphen"/>ble employment to induſtrious merchants.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:102976:6"/>
+               <head>Borneo.</head>
+               <p>This great Iſland contains many good Ports which yeeld quan<g ref="char:EOLhyphen"/>tities of Pepper, Campher, Diamonds and other commodities. The Navigation here knowne to us is at Samba, Succodana and Benger Maſsin: beſides other ports which trade with the Spa<g ref="char:EOLhyphen"/>niards of the Mavillas, and the Hollanders of Bataia with ſtore of Shipping; and great many more may bee added by induſtry of painfull Merchants, to no ſmall benefit of the undertakers.</p>
+            </div>
+            <div type="part">
+               <head>Celebes, Bouton, Pangeſane, Cambena, Salayer, Calauro.</head>
+               <p>Macaſſar upon Celebes trades with many places, as the coaſt of India, Mallabar, Achen, and all Ports of the South ſea, chiefly with the Molucco and Banda Iſlands, for Cloves, Nutmegs and Mace; here being a continuall marct for thoſe Spic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s which for moſt part are brought hither by ſtealth, for feare of the Dutch, who by an everlaſting contract claime all the Cloves Nutmegs and ware which grow on the Molucco and Banda Iſlands; and ſuffers none to be ſold from themſelves.</p>
+            </div>
+            <div type="part">
+               <head>Moluccos, Gilolo, Morotay, Ceram, Amboyna, Boero, &amp; Ter<g ref="char:EOLhyphen"/>nate, Tidore, Motyr, Machian, Bachian.</head>
+               <p>The five Iſlands of Ternate, Tidore, Motyr, Machian and Bachian yeild all the cloves except ſome ſmall quantity grow<g ref="char:EOLhyphen"/>ing upon Gilolo, Amboyn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Ceram, and are now under the government or rather tyranny of the Spanyards and Hollanders, ſo that the whole Navigation and ſole trade thereof is in their hands, except ſome portion which by ſtealth and by night is thence brought in ſmall veſſells to Maccaſſar, and other neigh<g ref="char:EOLhyphen"/>bouring places. Doubtleſſe aſſoone as ſtore of our ſhipping ſhall trade into thoſe parts, the cloves will be brought unto us let the Hollanders and Spaniards be never ſo watchfull, for hopes of gaine will induce the country people to attempt any thing, let it never be ſo dangerous.</p>
+            </div>
+            <div type="part">
+               <head>Banda-Ilands, Nera, Bonda, Gonapy, Puloway, Puloron, R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſengyn.</head>
+               <p>Theſe ſix Iſlands containe all the knowne nutmeg trees of the World, and are wholly poſſeſſed by the Hollanders: the Iſland Puloron of about eight or nine miles circumference belongs to
+<pb n="12" facs="tcp:102976:7"/>
+the Engliſh, but lies waſt, and all the nutmeg trees are cut down: ſo that the Hollanders remaine quiet owners of all the Mace and Nutmeg untill that by encreaſe of our navigation in the South-ſea Puloron may bee replanted againe, and ſome ſhare procured of the other Iſlands, and their fruites, in manner ex<g ref="char:EOLhyphen"/>preſſed about the cloves. A report goes that ſome of the old Bandaneſes to ſhun their new uſurping Maſters the Hollanders are retired to the Southward, and begun to plant nutmeg trees there: which ought to move us to try whether cloves and nut<g ref="char:EOLhyphen"/>meg trees may not grow in other places beſides the Molucco and Banda Iſlands.</p>
+            </div>
+            <div type="part">
+               <head>Timor, Flores, Sava, Solor, Banbale, Malua.</head>
+               <p>Vpon Timor and neighbouring Iſlands growes ſtore of Sandel<g ref="char:EOLhyphen"/>wood which is fetched from all parts of India, South ſea and chi<g ref="char:EOLhyphen"/>na, cauſing a reaſonable navigation and rich trade into theſe Southerne parts.</p>
+            </div>
+            <div type="part">
+               <head>Japan.</head>
+               <p>Japan is an Empire of a great Iſland, with many leſſer round about the ſame, which reaches from 30. degrees to 50. degrees North-latitude, and from Weſt to Eaſt for above 300. leagues, which great Empire is now wholly under the command of a Monarch, known by the name of the Emperour of Japan. The Trade of theſe parts is chieflier with China, Siam and Phi<g ref="char:EOLhyphen"/>lippinas, the northerne trade as yet unknowne. This Country vents very great ſtore of China raw ſilke, ſilke ſtuffes, cloth of gold, and many other China commodities, and from Siam abun<g ref="char:EOLhyphen"/>dance of Sabon-wood and deerskinnes, from the South-ſea ſpice, eſpecially Cloves, from hence cloth, Tin, Lead, Camerick and Launes, mather, bayes, perpetuanes<g ref="char:punc">▪</g> wax<g ref="char:punc">▪</g> verdigreece and other ſtuffes: Iron and ſteele, Amber, glaſſe of all ſorts and colours, Caſtle Soape, Velvet, Sattin, and Taffeties, with other commo<g ref="char:EOLhyphen"/>dities. Our cloth there is in very great eſteeme, and ſold at ex<g ref="char:EOLhyphen"/>cesſive deere rates, and beleeved that this Empire of Japan would ſpend all the cloth which could be made in England. For which commodities it returnes Silver or Plate which is there in great abundance, and of no leſſe quantity then all the King of Spaines Fleet brings out of the Weſt-Indies into Spaine: the moſt part of that Plate goes to China for ſilkes and ſilke ſtuffes, cloth of
+<pb n="13" facs="tcp:102976:7"/>
+gold and other fancies, the greateſt part whereof may come to us when we furniſh them with good cloth and other commodi<g ref="char:EOLhyphen"/>ties which may ſatisfie their mindes: other commodities, as hemp Wheate, Barley, rice, all kind of lackwork, a blew colour wher<g ref="char:EOLhyphen"/>of great ſtore and cheap to be had may likewiſe be returned from Japan. Great ſtore of ſhipping is continually employed, about the Japan trade which ours may ſupply<g ref="char:punc">▪</g> and now the beſt time to beginne, the Hollanders in a manner being expelled from thence.</p>
+            </div>
+            <div type="part">
+               <head>Philipinas, Luzon, Mindanao, Mindoro, Tandaya, Panay-Paragoa.</head>
+               <p>The trade of theſe Iſlands with China Japan, Moluccos, and the weſt-Indies is of great value; for ſometimes three or foure millions of Rialls of 8. are brought yearly from the Weſt-Indies, to be inveſted in China ſilke ſtuffes, and other commodities for the uſe of Mexico, Peru and other parts of America. The Spani<g ref="char:EOLhyphen"/>ards are chiefe Rulers of theſe Ilands, and willing to admit us part<g ref="char:EOLhyphen"/>ners in their Navigations.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Aynan, Fermoſo, Lequeos,</hi> and other Ilands upon the Coaſt of <hi>China.</hi>
+               </head>
+               <p>There bee three famous Pearle-fiſhings in the Eaſt-Indies, whence the beſt Orientall Pearles comes to our Europe; Baha<g ref="char:EOLhyphen"/>ren in the gulfe of Perſia, Manaren betwixt Ceylon and Cape Comorin, and this Iland of Aynan the Southermoſt part of Chi<g ref="char:EOLhyphen"/>na. Upon Fermoſo the Hollanders have a Fort called Tayoan, whether Chineſes bring theſe coſtly commodities to the Hol<g ref="char:EOLhyphen"/>landers, which commodities are thence tranſported to Japan, Ba<g ref="char:EOLhyphen"/>tavia and other parts of theirs: this Tayoan being as a market for the Chineſes to ſell the goods. There is great Navigation <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all theſe Iſlands, and very eaſie for our ſhipping to become owners of the beſt trade there, if courage and induſtrie be not wanting. And here ends the Iland trade, the circumference of which Ilands ſum<g ref="char:EOLhyphen"/>med up together does not amount to leſſe than 14500. Engliſh miles: and now proceed to the unknowne Southerne World.</p>
+               <p>The unknown Southerne WORLD fit to bee diſcovered.</p>
+               <p>The extent of this unknowne World muſt needs be very great, for beginning from the Straits of Le Mart in 57. degrees South<g ref="char:EOLhyphen"/>latitude, and thence Eaſtwards to the laſt Holland diſcovery a<g ref="char:EOLhyphen"/>bout
+<pb n="14" facs="tcp:102976:8"/>
+Houtmans Abrelhos in 35. degrees and ſo to the tryalls in 20. degrees, thence to the Weſtermoſt diſcovery of Nova Guinea under the equinoctiall, thence along that Nova Guinea &amp; Papuas Eaſtward along the Terra Auſtralia <hi>de ſpiritis Sancto</hi> and all the I<g ref="char:EOLhyphen"/>lands diſcovered by Fernand Magelanes, Villaloboz, Fernando Dequiros, and Jacob le Mayre untill the Southermoſt part of the ſtraites le Mayre, no leſſe then 20000. Engliſh miles can bee reckoned of coaſt, including the Southerne unknowne World of larger extent then Aſia, Africa and Europe joyned together. From the ſtraites le Mayre in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. degrees Southlatitude, to the coaſt of Chili and along Peru, and all the backſide of America to Californias, thence to the Northerne par<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of Japan, China, Tartaria and Waygatts, may bee coaſted for the ſpace of above 12000. Engliſh miles. The trade of the Southerne unknowne World is as yet to diſcover and not improbable to prove to bene<g ref="char:EOLhyphen"/>fit whenſoever attempted; the few diſcoveries made in ſeverall parts thereof proves ſufficiently the ſame to be inhabited, and a<g ref="char:EOLhyphen"/>bounds with proviſions for the ſuſtenance of men, with many commodities, with great likelihood of gold and Pearles. The trade on the backſide of America will turne to the advantage of the undertakers, when thereby the gold of Chili and Plate of Pe<g ref="char:EOLhyphen"/>ru ſhall thereby come into their poſſeſsion. Hence ſhall proceed to the Eaſt-India commodities.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Eaſt-India</hi> Commodities.</head>
+               <p>The commodities which uſually are brought home into Eu<g ref="char:EOLhyphen"/>rope, or may be brought from the Eaſt Indies are theſe:</p>
+               <p>Mettalls, gold, Silver, Copper, Tinne, Lead, Iron, Steele.</p>
+               <p>Mineralls and ſalts, brimſtone, ſalpeter, allume, ſal-armoniac, tincall, ſalgemur, vitriol. Gemmes, Diamonds, Rubies, Pearles, Spinells, Emeralds, Saphirs, Turkeys, granats, hyachuts, ame<g ref="char:EOLhyphen"/>thiſts, catteyes, corneſians, Lapis lazuli, Elitropian, Jaſpis, agats Chriſtalls.</p>
+               <p>Spices, Pepper, Cloves, Nutmegs, Mace, Ginger, Cinnamon Su<g ref="char:EOLhyphen"/>gar, powder Candy.</p>
+               <p>Perfumes Muske, Civet, Ambergreece, Lignum aloes, ſandel<g ref="char:EOLhyphen"/>wood, Mirrha Olibanum, Benjamin, Campher, Calamus aroma<g ref="char:EOLhyphen"/>ticus.</p>
+               <p>Druggs, aloe ſocotrino, amacardium, amomo afiom, aſa fetida, ammoniacum, bolus armenius, bezar, balſamum bdellium, balau<g ref="char:EOLhyphen"/>ſtium,
+<pb n="15" facs="tcp:102976:8"/>
+Caſsialignea, caſsia fiſtula, cardamoms, coſtus, cubebes, China-rootes, coculus Indi, coriander, cambogium, coloquinti<g ref="char:EOLhyphen"/>da, galbaum, gallangall, gum dragam, gum arabick, manna mira<g ref="char:EOLhyphen"/>bolans nux vomica, long pepper, cocus maldina, ſpikenard rubar<g ref="char:EOLhyphen"/>ber, ſanguis draconis, ſquinantia, ſarcacolla, lapis tutia, turbich, turmerick tamerinds tacamahaca wormſeed, ſeed pearles, anis<g ref="char:EOLhyphen"/>ſeed, cotton, cotten yarne, and all ſorts of clothes made of cot<g ref="char:EOLhyphen"/>ten, white, dyed and painted.</p>
+               <p>Silke raw and ſilke wrought in ſilke ſtuffes of all ſorts.</p>
+               <p>Indigo, gumlack <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abon-wood, ſafflower.</p>
+               <p>Buffiles hides, deereskinnes, Perſian ſheepskins.</p>
+               <p>Wax, honey, ebbony-wood, Box-wood, Elephants teeth, Tur<g ref="char:EOLhyphen"/>tle ſhells, bugios.</p>
+               <p>China diſhes of all ſorts, Japan ſcritories.</p>
+               <p>Beſides theſe commodities which are or may be brought to us with advantage, and are likewiſe tranſported in trade from Port to Port in the Eaſt-Indies, the Country people uſes to trade and tranſport many other goods, proviſions and merchandiſes from one place into another, as</p>
+               <p>Elephants, horſes, beeves, ſheep, Tobacco, Rinoceros hornes, Elephants and Seahorſe teeth, Negros and ſlaves, rohanaz, cocos nuts, cayro-roapes, dryed Salmon, hempe, rice, butter, oyle, jag<g ref="char:EOLhyphen"/>gara, rack, betell nuts, Salt, wheate, wine, Dates, Raiſins, Al<g ref="char:EOLhyphen"/>monds, galls-onions, cheſts, cots, cabinets, and all manner of their houſholdſtuffe, Perſian carpets tombelo, rampontri ta<g ref="char:EOLhyphen"/>tinaga, noſhader, cohoſeede, quickſilver, vermillion, red lead, martaban jarres, dammer, caſſumba, beades, horſe tayles and manes, and many other ſorts and kindes of commodities, the names unknown to us. Now to a concluſion.</p>
+            </div>
+            <div type="conclusion">
+               <head>CONCLUSION.</head>
+               <p>
+                  <hi>The Premiſes conſidered, what quantity of Ships and Sea-men may bee employed, and to how great advantage, is left to every judicious Reader, if trade to thoſe parts were either left free, or elſe ſo r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gulated as not to limit it to a joynt ſtock, and to be d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpoſed under ſuch a government as is deſtru<g ref="char:EOLhyphen"/>ctive to trade, which this Nation hath experience in theſe laſt</hi> 20. <hi>yeares.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
